@@ -12,10 +12,10 @@ Name | About | Title | Labels| Assignee
 Fundraising Experience Profile | Track fundraising volunteer’s Hack for LA experience | Experience  Profile: [your name] | Feature: experience profile |
 
 <b>Experience Level:</b>
-Learning
-Have Training
-Experienced
-Managed Others
+- Learning
+- Have Training
+- Experienced
+- Managed Others
 
 
 <b>Overview</b>
