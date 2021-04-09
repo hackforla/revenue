@@ -76,7 +76,8 @@ Be sure to follow the guidelines above when posting
 - [ ] Circulate Draft for review in editable format (word or in drive) - ALL
 - [ ] Address input as necessary, incorporate edits, release revised version - ALL 
 - [ ] Finalize and submit; file submission and documents for own record - ALL
-- [ ] Enter opportunity in appropriate account in database: stage, app amount, submission date, activity - [ ] record, contacts, etc - HAVE TRAINING   
+- [ ] Enter opportunity in appropriate account in database: stage, app amount, submission date, activity 
+- [ ] record, contacts, etc - HAVE TRAINING   
 
 <b>Grant Reporting </b>
 - [ ] Design reporting and visualization for compliance (compliance usually particular to government grants) - HAVE TRAINING/EXPERIENCED
