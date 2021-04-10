@@ -1,8 +1,8 @@
 ---
 name: Fundraiser Experience Template
 about: Use this template to assess volunteers' fundraising experience
-title: ''
-labels: ''
+title: 'Fundraiser Experience Profile: [Your Name]'
+labels: 'feature: experience profile'
 assignees: ''
 
 ---
