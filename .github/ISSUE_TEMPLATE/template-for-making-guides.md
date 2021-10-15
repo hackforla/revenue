@@ -2,7 +2,7 @@
 name: Template for Making Guides
 about: Use this template if you want to make a guide for a Revenue item
 title: 'Create a Guide/Template: [name of item]'
-labels: 'Guide: Research, documentation'
+labels: 'Feature: Guide, Guide: Gather Examples'
 assignees: ''
 
 ---
