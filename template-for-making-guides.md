@@ -15,7 +15,7 @@ We need to create a guide for [name of item] so that [purpose of the item]
    - [ ] Once done, remove the "Guide: Gather Examples" label and add the "Guide: Research" label
 - [ ] Research existing information about [name of item] in [relevant resources, articles, etc.]
    - [ ] Once done, remove the "Guide: Research" label and add the "Guide: Draft Guide" label
-- [ ] Create a draft guide, either in markdown format in this issue or a google doc in the [Revenue google drive] (WIP)
+- [ ] Create a draft guide, either in markdown format in this issue or a google doc in the [Revenue google drive](https://drive.google.com/drive/u/0/folders/1nm3t0xa4WXngHJ_USDNaw1nZlnTBxo__)
     - [ ] Once done, remove the "Guide: Draft Guide" label and add the "Guide: Needs Peer Review" label
 - [ ] Review the guide with Revenue community of practice
    - [ ] Once done, remove the "Guide: Needs Peer Review" label and add the "Guide: Leadership Review" label
